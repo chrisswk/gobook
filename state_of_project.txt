@@ -1,0 +1,1 @@
+2/3/18:  uninstall and reinstalled brew.  added this to github
